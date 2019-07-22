@@ -1,0 +1,6 @@
+use_frameworks!
+target 'fibSignupFramework_Tests' do
+  pod 'fibSignupFramework', :path => '../'
+  
+  
+end
