@@ -1,0 +1,16 @@
+PODS:
+  - fibSignupFramework (0.1.0)
+
+DEPENDENCIES:
+  - fibSignupFramework (from `../`)
+
+EXTERNAL SOURCES:
+  fibSignupFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  fibSignupFramework: f3412c66d9ad3f2c90a19f618574f267b708358c
+
+PODFILE CHECKSUM: 7b1692ed779525a0fb28d950e723f3482b2fee31
+
+COCOAPODS: 1.5.3

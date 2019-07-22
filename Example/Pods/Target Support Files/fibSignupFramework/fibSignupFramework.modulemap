@@ -1,0 +1,6 @@
+framework module fibSignupFramework {
+  umbrella header "fibSignupFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
